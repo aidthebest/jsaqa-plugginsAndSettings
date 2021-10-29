@@ -18,5 +18,13 @@
   "bugs": {
     "url": "https://github.com/aidthebest/jsaqa-plugginsAndSettings/issues"
   },
-  "homepage": "https://github.com/aidthebest/jsaqa-plugginsAndSettings#readme"
+  "homepage": "https://github.com/aidthebest/jsaqa-plugginsAndSettings#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "eslint-plugin-react": "^7.26.1",
+    "prettier": "2.4.1"
+  }
 }
